@@ -1,6 +1,6 @@
 # SBA 6: TypeScript and Advanced JavaScript
 
-## By Mamadou Moussa Balde
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
 
 This is a Vite and TypeScript page that loads products and shows them as cards. The tab title is "E-Commerce System Home". The heading is "E-Commerce System". There is no cart, search, or button. The page does not set a background color. The cards are white.
 
@@ -40,7 +40,7 @@ The id, rating, stock, and the other API fields are stored on the class and only
 `apiServices` throws a `NetworkError` when the response status is not ok, then rejects with the string `Network or endpoint issue ---> ...`. `initApp` checks `error instanceof NetworkError`, so that string does not take the network branch. It is logged as an unknown error. `DataError` is defined and imported, and nothing throws it. After either outcome, the page still calls `loadProductsWebsite()`. With no products, the heading stays and the grid stays empty.
 
 ## Reflection: SBA 6 TypeScript and Advanced JavaScript
-### By Mamadou Moussa Balde
+### By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
 ## How you implemented TypeScript features and OOP principles.
 In building this E-Commerce System, I applied TypeScript and OOP principles to create a robust architecture. Using a `Product` class, I encapsulated data attributes and behaviors, keeping the code modular. TypeScript’s strict type annotations provided immediate feedback, preventing runtime errors related to dynamic typing.
 
