@@ -1,4 +1,4 @@
-# SBA 6: TypeScript and Advanced JavaScript
+# TypeScript and Advanced JavaScript
 
 A Vite and TypeScript page that loads products and shows them as cards.
 
